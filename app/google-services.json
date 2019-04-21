@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1046267532530",
+    "firebase_url": "https://tpdm1-ba7b5.firebaseio.com",
+    "project_id": "tpdm1-ba7b5",
+    "storage_bucket": "tpdm1-ba7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046267532530:android:64c088d5281d45a4",
+        "android_client_info": {
+          "package_name": "ittepic.edu.practica1_u3barbosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046267532530-cc6j88m7gopj3k87eg92iiqi9invv1g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFYRuCo3sDGN9Qtmg0DoBkCVL5sx_Ww0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046267532530-cc6j88m7gopj3k87eg92iiqi9invv1g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046267532530:android:327d8fe7b3cf74cb",
+        "android_client_info": {
+          "package_name": "ittepic.edu.practica_2tpdmu3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046267532530-cc6j88m7gopj3k87eg92iiqi9invv1g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFYRuCo3sDGN9Qtmg0DoBkCVL5sx_Ww0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046267532530-cc6j88m7gopj3k87eg92iiqi9invv1g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046267532530:android:ef36d3fb19bfecdb",
+        "android_client_info": {
+          "package_name": "ittepic.edu.tpdm_u3_eje3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046267532530-cc6j88m7gopj3k87eg92iiqi9invv1g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFYRuCo3sDGN9Qtmg0DoBkCVL5sx_Ww0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046267532530-cc6j88m7gopj3k87eg92iiqi9invv1g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

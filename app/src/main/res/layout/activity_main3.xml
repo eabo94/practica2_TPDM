@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Main3Activity">
+    <EditText
+        android:id="@+id/txtNom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="nombre de la marca" />
+
+    <EditText
+        android:id="@+id/txtCom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="giro de la marca" />
+
+    <EditText
+        android:id="@+id/txtAni"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Origen" />
+
+    <Button
+        android:id="@+id/insertarAv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="insertar" />
+
+    <Button
+        android:id="@+id/eliminarAv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="eliminar" />
+
+    <Button
+        android:id="@+id/mostrarAv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Actualizar" />
+
+    <ListView
+        android:id="@+id/listaAv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
